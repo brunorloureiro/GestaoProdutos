@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8uFKPgKi0pFQEloc0K+PzlP+S+NViyohAAWtF13uagrup+rIaD3PFhVkgZfKSZSXVQrIaWP77qm2USMY9jkObg==",
+  "dgSpecHash": "iaaE4jD5kXtKh0FCuHS8Au+8ViAnW6glyEQ5U0L1sYhaf4+dZoLiemUkHBAS1CVAOMzBGbGIGkcQC0zWbKUEEA==",
   "success": true,
-  "projectFilePath": "d:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj",
+  "projectFilePath": "D:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

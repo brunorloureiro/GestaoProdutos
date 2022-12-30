@@ -8710,11 +8710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj",
+      "projectUniqueName": "D:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj",
       "projectName": "GestaoProdutos.Test",
-      "projectPath": "d:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj",
+      "projectPath": "D:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "d:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\obj\\",
+      "outputPath": "D:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8731,11 +8731,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj": {
-              "projectPath": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj"
+            "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj": {
+              "projectPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj"
             },
-            "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj": {
-              "projectPath": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj"
+            "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj": {
+              "projectPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj"
             }
           }
         }

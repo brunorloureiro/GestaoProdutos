@@ -6860,11 +6860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.App\\GestaoProdutos.App.csproj",
+      "projectUniqueName": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.App\\GestaoProdutos.App.csproj",
       "projectName": "GestaoProdutos.App",
-      "projectPath": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.App\\GestaoProdutos.App.csproj",
+      "projectPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.App\\GestaoProdutos.App.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.App\\obj\\",
+      "outputPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6881,8 +6881,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj": {
-              "projectPath": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj"
+            "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj": {
+              "projectPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj"
             }
           }
         }

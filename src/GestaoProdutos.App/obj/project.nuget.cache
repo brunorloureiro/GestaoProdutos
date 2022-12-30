@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RIpc4ENBMvBhlYHbhEbGWJEE+H7HJKLOAfXNPwtMwGXlV1SE63ktlIbPMWpeHdYOKIXuZrCrNSvgTBh9P9Zdtg==",
+  "dgSpecHash": "FbCq36d7RPOqb5/4DA1VxIXyF59j8YThhURdrIFPTGY9hLpfzknDzjNheeBUQ5i4j9wqy9aaeTR/ENH0ibIEsQ==",
   "success": true,
-  "projectFilePath": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.App\\GestaoProdutos.App.csproj",
+  "projectFilePath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.App\\GestaoProdutos.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

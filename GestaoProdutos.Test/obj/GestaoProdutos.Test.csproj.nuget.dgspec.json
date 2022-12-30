@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj": {}
+    "D:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj": {}
   },
   "projects": {
-    "d:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj": {
+    "D:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj",
+        "projectUniqueName": "D:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj",
         "projectName": "GestaoProdutos.Test",
-        "projectPath": "d:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj",
+        "projectPath": "D:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\GestaoProdutos.Test.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "d:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\obj\\",
+        "outputPath": "D:\\ProjetosBruno\\GestaoProdutos\\GestaoProdutos.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj": {
-                "projectPath": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj"
+              "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj": {
+                "projectPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj"
               },
-              "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj": {
-                "projectPath": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj"
+              "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj": {
+                "projectPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj": {
+    "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj",
+        "projectUniqueName": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj",
         "projectName": "GestaoProdutos.Business",
-        "projectPath": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj",
+        "projectPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\obj\\",
+        "outputPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,14 +147,14 @@
         }
       }
     },
-    "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj": {
+    "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj",
+        "projectUniqueName": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj",
         "projectName": "GestaoProdutos.Data",
-        "projectPath": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj",
+        "projectPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\GestaoProdutos.Data.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\obj\\",
+        "outputPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,8 +171,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj": {
-                "projectPath": "d:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj"
+              "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj": {
+                "projectPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj"
               }
             }
           }
