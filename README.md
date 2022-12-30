@@ -8,9 +8,11 @@ Para executar tem que mudar a string de conexão dentro do appsettings.json (loc
 Foi feito com CodeFirst, ou seja é necessário rodar os comandos do migration:
 
 // Já existe, mas caso queira apagar o existente e criar outro
+
 add-migration NameMigration -context MeuDbContext
 
 // Atualizar o banco
+
 update-database -context MeuDbContext
 
 Obs.: rodar no Package Manager Console e escolher o "GestaoProdutos.App" como Default projet.
