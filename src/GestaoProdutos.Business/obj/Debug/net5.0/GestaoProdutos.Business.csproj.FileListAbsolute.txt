@@ -1,0 +1,12 @@
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Business\bin\Debug\net5.0\GestaoProdutos.Business.deps.json
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Business\bin\Debug\net5.0\GestaoProdutos.Business.dll
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Business\bin\Debug\net5.0\ref\GestaoProdutos.Business.dll
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Business\bin\Debug\net5.0\GestaoProdutos.Business.pdb
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Business\obj\Debug\net5.0\GestaoProdutos.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Business\obj\Debug\net5.0\GestaoProdutos.Business.AssemblyInfoInputs.cache
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Business\obj\Debug\net5.0\GestaoProdutos.Business.AssemblyInfo.cs
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Business\obj\Debug\net5.0\GestaoProdutos.Business.csproj.CoreCompileInputs.cache
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Business\obj\Debug\net5.0\GestaoProdutos.Business.dll
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Business\obj\Debug\net5.0\ref\GestaoProdutos.Business.dll
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Business\obj\Debug\net5.0\GestaoProdutos.Business.pdb
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Business\obj\Debug\net5.0\GestaoProdutos.Business.csproj.AssemblyReference.cache

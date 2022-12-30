@@ -1,0 +1,12 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\SL\Cursos Bruno\Material\Dominando o ASPNET MVC Core\MinhaAppMvcCompleta 5.0\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.deps.json
+C:\Users\bruno\OneDrive\Área de Trabalho\SL\Cursos Bruno\Material\Dominando o ASPNET MVC Core\MinhaAppMvcCompleta 5.0\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\SL\Cursos Bruno\Material\Dominando o ASPNET MVC Core\MinhaAppMvcCompleta 5.0\src\DevIO.Business\bin\Debug\net5.0\ref\DevIO.Business.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\SL\Cursos Bruno\Material\Dominando o ASPNET MVC Core\MinhaAppMvcCompleta 5.0\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\SL\Cursos Bruno\Material\Dominando o ASPNET MVC Core\MinhaAppMvcCompleta 5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\SL\Cursos Bruno\Material\Dominando o ASPNET MVC Core\MinhaAppMvcCompleta 5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Área de Trabalho\SL\Cursos Bruno\Material\Dominando o ASPNET MVC Core\MinhaAppMvcCompleta 5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\SL\Cursos Bruno\Material\Dominando o ASPNET MVC Core\MinhaAppMvcCompleta 5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Área de Trabalho\SL\Cursos Bruno\Material\Dominando o ASPNET MVC Core\MinhaAppMvcCompleta 5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\SL\Cursos Bruno\Material\Dominando o ASPNET MVC Core\MinhaAppMvcCompleta 5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\SL\Cursos Bruno\Material\Dominando o ASPNET MVC Core\MinhaAppMvcCompleta 5.0\src\DevIO.Business\obj\Debug\net5.0\ref\DevIO.Business.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\SL\Cursos Bruno\Material\Dominando o ASPNET MVC Core\MinhaAppMvcCompleta 5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.pdb

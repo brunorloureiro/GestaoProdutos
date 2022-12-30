@@ -1,0 +1,43 @@
+﻿@model GestaoProdutos.App.ViewModels.FornecedorViewModel
+
+@{
+    ViewData["Title"] = "Novo Fornecedor";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-10">
+        <form asp-action="Create">
+
+            <vc:Summary></vc:Summary>
+
+            <div class="form-group">
+                <label asp-for="Descricao" class="control-label"></label>
+                <input asp-for="Descricao" class="form-control"/>
+                <span asp-validation-for="Descricao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CNPJ" class="control-label"></label>
+                <input asp-for="CNPJ" class="form-control"/>
+                <span asp-validation-for="CNPJ" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Ativo" checked/> @Html.DisplayNameFor(model => model.Ativo)
+                </label>
+            </div>
+
+            <hr/>
+
+        
+            <div class="form-group">
+                <input type="submit" value="Cadastrar" class="btn btn-primary"/>
+                <a class="btn btn-info" asp-action="Index">Voltar</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+

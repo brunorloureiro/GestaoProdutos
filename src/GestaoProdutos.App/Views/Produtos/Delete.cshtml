@@ -1,0 +1,60 @@
+﻿@model GestaoProdutos.App.ViewModels.ProdutoViewModel
+
+@{
+    ViewData["Title"] = "Excluir " + Model.Descricao;
+}
+
+<h4 style="padding-top: 50px">@ViewData["Title"] </h4>
+
+<h5>Você tem certeza disso?</h5>
+
+<div class="row">
+    <div class="col-md-6">
+        <dl>
+            <dt>
+                @Html.DisplayNameFor(model => model.Codigo)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Codigo)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Descricao)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Ativo)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Ativo)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.DataFabricacao)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.DataFabricacao)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.DataValidade)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.DataValidade)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.FornecedorId)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Fornecedor.Descricao)
+            </dd>
+        </dl>
+
+        <div>
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="Id" />
+                <input type="submit" value="Excluir" class="btn btn-danger" />
+                <a class="btn btn-info" href="javascript:window.history.back();">Voltar</a>
+            </form>
+        </div>
+    </div>
+</div>

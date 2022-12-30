@@ -1,0 +1,15 @@
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\bin\Debug\net5.0\GestaoProdutos.Data.deps.json
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\bin\Debug\net5.0\GestaoProdutos.Data.dll
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\bin\Debug\net5.0\ref\GestaoProdutos.Data.dll
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\bin\Debug\net5.0\GestaoProdutos.Data.pdb
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\bin\Debug\net5.0\GestaoProdutos.Business.dll
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\bin\Debug\net5.0\GestaoProdutos.Business.pdb
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\obj\Debug\net5.0\GestaoProdutos.Data.csproj.AssemblyReference.cache
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\obj\Debug\net5.0\GestaoProdutos.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\obj\Debug\net5.0\GestaoProdutos.Data.AssemblyInfoInputs.cache
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\obj\Debug\net5.0\GestaoProdutos.Data.AssemblyInfo.cs
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\obj\Debug\net5.0\GestaoProdutos.Data.csproj.CoreCompileInputs.cache
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\obj\Debug\net5.0\GestaoProdutos.Data.csproj.CopyComplete
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\obj\Debug\net5.0\GestaoProdutos.Data.dll
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\obj\Debug\net5.0\ref\GestaoProdutos.Data.dll
+D:\ProjetosBruno\GestaoProdutos\src\GestaoProdutos.Data\obj\Debug\net5.0\GestaoProdutos.Data.pdb
