@@ -20,5 +20,7 @@ Obs.: rodar no Package Manager Console e escolher o "GestaoProdutos.App" como De
 Quem quiser adicionar melhorias, principalmente no teste, será de boa serventia.
 
 Desenvolvido no Visual Studio 2019
+
 Banco de dados: SQL Server
+
 Framework usado: .NET 5.0
