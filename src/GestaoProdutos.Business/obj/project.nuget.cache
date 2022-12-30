@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "DGNrJWaQSkXmPD5srLoIO6UEzB8yyRFEZFrA4I4pmozLAACmfp9URPZ/vqpCmwj7+xDXofwzlBzf+H5F9HAilA==",
+  "dgSpecHash": "DQvkoFYE+uoG2l6Xs0AvLuqn6Gwf/jWDTpXdppTtPGnZ2W1WMEGXEZE5gaRkLbbIUepROB1I8RcRb15QaOf9hw==",
   "success": true,
-  "projectFilePath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj",
+  "projectFilePath": "D:\\Deivisson\\Projetos_Estudos\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bruno\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+    "C:\\Users\\Deivisson\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\Deivisson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Deivisson\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Deivisson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

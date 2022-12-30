@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj": {}
+    "D:\\Deivisson\\Projetos_Estudos\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj": {}
   },
   "projects": {
-    "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj": {
+    "D:\\Deivisson\\Projetos_Estudos\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj",
+        "projectUniqueName": "D:\\Deivisson\\Projetos_Estudos\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj",
         "projectName": "GestaoProdutos.Business",
-        "projectPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj",
-        "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjetosBruno\\GestaoProdutos\\src\\GestaoProdutos.Business\\obj\\",
+        "projectPath": "D:\\Deivisson\\Projetos_Estudos\\GestaoProdutos\\src\\GestaoProdutos.Business\\GestaoProdutos.Business.csproj",
+        "packagesPath": "C:\\Users\\Deivisson\\.nuget\\packages\\",
+        "outputPath": "D:\\Deivisson\\Projetos_Estudos\\GestaoProdutos\\src\\GestaoProdutos.Business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Deivisson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,16 +54,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
